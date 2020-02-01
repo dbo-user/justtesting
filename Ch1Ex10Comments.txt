@@ -16,5 +16,7 @@ class Comments
       // javadoc comment
       /** Program comments are nonexecuting statements 
           you add to a file for the purpose of documentation.  */
+	//
+	//
    }
 }
